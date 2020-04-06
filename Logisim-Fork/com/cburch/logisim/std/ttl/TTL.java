@@ -14,6 +14,7 @@ public class TTL extends Library {
 			new FactoryDescription("7402", Strings.getter("7402: quad 2-input NOR gate"), "ttl.gif", "Ttl7402"),
 			new FactoryDescription("7404", Strings.getter("7404: hex inverter"), "ttl.gif", "Ttl7404"),
 			new FactoryDescription("7408", Strings.getter("7408: quad 2-input AND gate"), "ttl.gif", "Ttl7408"),
+			new FactoryDescription("7410", Strings.getter("7410: triple 3-input NAND gate"), "ttl.gif", "Ttl7410"),
 			new FactoryDescription("7432", Strings.getter("7432: quad 2-input OR gate"), "ttl.gif", "Ttl7432"),
 			new FactoryDescription("7447", Strings.getter("7447: BCD to 7-segment decoder"), "ttl.gif", "Ttl7447"),
 			new FactoryDescription("7485", Strings.getter("7485: 4-bit magnitude comparator"), "ttl.gif", "Ttl7485"),
